@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @soyyleOrtefga
 - 👀 I’m interested in programar 
 - 🌱 I’m currently learning PROGRAMACION 
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on java
 - 📫 How to reach me jamely.ortega@gmail.com
 
 <!---
